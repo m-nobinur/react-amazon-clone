@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Simple Amazon Clone App
+
+This is a simple amazon clone app built with React.js.
+
+![Demo Image](aclone.png)
+
+### [Demo](https://mart-20.web.app/) site link.
 
 ## Available Scripts
 
