@@ -36,7 +36,9 @@ function App() {
           </Route>
           <Route path="/login">
             <Login></Login>
-            <h2>Hi</h2>
+          </Route>
+          <Route path="/payment">
+            <h1>I am the payment route</h1>
           </Route>
           <Route path="/">
             <Home />
